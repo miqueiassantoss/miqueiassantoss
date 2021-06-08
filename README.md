@@ -1,4 +1,4 @@
-<!-- Essa imagem do computador foi disponibilizada pelo iuriCode :)-->
+<!-- A imagem do computador, e dos botões foram disponibilizadas pelo iuriCode :)-->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
