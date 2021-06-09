@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Miqueias Santos, sou um jovem no início de carreira, em busca de muito conhecimento e apaixonado por desenvolvimento front-end. 👨‍💻
+  Olá, meu nome é Miqueias Santos, sou um jovem no início de carreira, em busca de muito conhecimento, experiência e apaixonado por desenvolvimento front-end. 👨‍💻
 </p>
 
 <p align="center">
