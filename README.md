@@ -42,17 +42,6 @@ Meu foco é unir a capacidade técnica da programação com a visão estratégic
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/miqueiassantoss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiassantoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiassantoss&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 <p align="center">
   Feito com 💜 por Miqueias Santos
 </p>
